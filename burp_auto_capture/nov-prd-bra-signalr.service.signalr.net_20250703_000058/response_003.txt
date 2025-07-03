@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 03:00:16 GMT
+Content-Type: application/json
+Content-Length: 334
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Vary: Origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{"negotiateVersion":1,"connectionId":"aojhG6jloxAQyEMSRYogWgG-FW8Q702","connectionToken":"NZjl39UXKHjvz522Zr1ZpwG-FW8Q702","availableTransports":[{"transport":"WebSockets","transferFormats":["Text","Binary"]},{"transport":"ServerSentEvents","transferFormats":["Text"]},{"transport":"LongPolling","transferFormats":["Text","Binary"]}]}
