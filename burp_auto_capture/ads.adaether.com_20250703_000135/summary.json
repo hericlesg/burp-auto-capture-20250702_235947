@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250703_000135", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/ads.adaether.com_20250703_000135/request_001.txt", 
+      "url": "https://ads.adaether.com:443/log/common/co/api", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/ads.adaether.com_20250703_000135/response_001.txt", 
+      "timestamp": 1751510908146
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/ads.adaether.com_20250703_000135/request_002.txt", 
+      "url": "https://ads.adaether.com:443/rest/n/adintl/ad/pixelLog", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/ads.adaether.com_20250703_000135/response_002.txt", 
+      "timestamp": 1751510914296
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/ads.adaether.com_20250703_000135/request_003.txt", 
+      "url": "https://ads.adaether.com:443/rest/n/adintl/ad/pixelLog", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/ads.adaether.com_20250703_000135/response_003.txt", 
+      "timestamp": 1751510917942
+    }
+  ], 
+  "host": "ads.adaether.com", 
+  "total_requests": 3
+}
