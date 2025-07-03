@@ -1,0 +1,18 @@
+HTTP/2 204 No Content
+Attribution-Reporting-Register-Trigger: {"aggregatable_trigger_data":[{"key_piece":"0xe5fa9ea36d83dabf","source_keys":["1"]},{"key_piece":"0x3cb76657f63e63c4","source_keys":["2","3","4"]}],"aggregatable_values":{"1":65,"2":65,"3":65,"4":6356},"aggregation_coordinator_origin":"https://publickeyservice.msmt.gcp.privacysandboxservices.com","debug_key":"10624028215128209834","debug_reporting":true,"event_trigger_data":[{"filters":[{"source_type":["event"]}],"priority":"0","trigger_data":"0"}],"filters":{"2":["368876292","826326532","991136149","10792160483","10861244690"],"5":["07-03","07-02","07-01"]}}
+Attribution-Reporting-Info: preferred-platform=os
+Attribution-Reporting-Register-Os-Trigger: "https://www.google-analytics.com/privacy-sandbox/register-os-conversion?_c=1&cid=2072127438.1751510366&dbk=10624028215128209834&dma=0&en=login_success&gcs=G1--&gtm=45je5710v876288562z8863745186za200zb863745186&npa=0&tid=G-XJQJTTNRLE&dl=https%3A%2F%2Fwww.novibet.bet.br%3F"
+Date: Thu, 03 Jul 2025 03:00:15 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Content-Type: text/plain
+Cross-Origin-Resource-Policy: cross-origin
+Content-Security-Policy-Report-Only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/ascnsrsgnc:90:0
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=ascnsrsgnc:90:0
+Report-To: {"group":"ascnsrsgnc:90:0","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/ascnsrsgnc:90:0"}],}
+Server: Golfe2
+Content-Length: 0
+Set-Cookie: ar_debug=1; expires=Wed, 01-Oct-2025 03:00:15 GMT; path=/; domain=www.google-analytics.com; Secure; HttpOnly; SameSite=none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
