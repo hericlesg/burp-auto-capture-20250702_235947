@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250703_000052", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/logger.geocomply.net_20250703_000052/request_001.txt", 
+      "url": "https://logger.geocomply.net:443/logs?type=myiplog", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/logger.geocomply.net_20250703_000052/response_001.txt", 
+      "timestamp": 1751510931320
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/logger.geocomply.net_20250703_000052/request_002.txt", 
+      "url": "https://logger.geocomply.net:443/logs?type=myiplog", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/logger.geocomply.net_20250703_000052/response_002.txt", 
+      "timestamp": 1751511617044
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/logger.geocomply.net_20250703_000052/request_003.txt", 
+      "url": "https://logger.geocomply.net:443/logs?type=myiplog", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/logger.geocomply.net_20250703_000052/response_003.txt", 
+      "timestamp": 1751511634192
+    }
+  ], 
+  "host": "logger.geocomply.net", 
+  "total_requests": 3
+}
