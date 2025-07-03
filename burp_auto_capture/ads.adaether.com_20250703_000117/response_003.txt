@@ -1,0 +1,9 @@
+HTTP/2 200 OK
+Content-Type: application/json;charset=UTF-8
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Access-Control-Allow-Credentials: true
+Content-Length: 199
+Date: Thu, 03 Jul 2025 02:48:37 GMT
+Vary: Accept-Encoding
+
+{"status":200,"message":"æå","data":"success","host":"public-c34-my01b-kce-node9.idcsgpaz1.sgp.kwaidc.com","port":22323,"timestamp":1751510917401,"traceId":"ENSAgICQhoiUChipAiCYwr7x_DIogJiTpAI="}
