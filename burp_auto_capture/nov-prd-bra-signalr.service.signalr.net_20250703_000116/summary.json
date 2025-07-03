@@ -1,0 +1,55 @@
+{
+  "capture_timestamp": "20250703_000116", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/request_001.txt", 
+      "url": "https://nov-prd-bra-signalr.service.signalr.net:443/client/negotiate?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=QGCjsw1KBwA%3D", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/response_001.txt", 
+      "timestamp": 1751510930899
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/request_002.txt", 
+      "url": "https://nov-prd-bra-signalr.service.signalr.net:443/client/?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=QGCjsw1KBwA%3D&id=5d1miTE519MKtkLWqTtBmgCaQMzw702&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ii0xOTU5Mjc0MTE5In0.eyJhc3JzLnMuc2VjbiI6IjIiLCJhc3JzLnMudHRsIjoiNSIsIm5iZiI6MTc1MTUxMDkyNywiZXhwIjoxNzUxNTE0NTI3LCJpYXQiOjE3NTE1MTA5MjcsImF1ZCI6Imh0dHBzOi8vbm92LXByZC1icmEtc2lnbmFsci5zZXJ2aWNlLnNpZ25hbHIubmV0L2NsaWVudC8_aHViPWN1c3RvbWVybm90aWZpY2F0aW9uaHViIn0._yoFOUMu_-byF9Ltan02raDFu5G5o9CxKkjk-oexYcU", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/response_002.txt", 
+      "timestamp": 1751510934003
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/request_003.txt", 
+      "url": "https://nov-prd-bra-signalr.service.signalr.net:443/client/negotiate?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=H4GICa1KBwA%3D", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/response_003.txt", 
+      "timestamp": 1751511616589
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/request_004.txt", 
+      "url": "https://nov-prd-bra-signalr.service.signalr.net:443/client/?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=H4GICa1KBwA%3D&id=NZjl39UXKHjvz522Zr1ZpwG-FW8Q702&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ii0xOTU5Mjc0MTE5In0.eyJhc3JzLnMuc2VjbiI6IjIiLCJhc3JzLnMudHRsIjoiNSIsIm5iZiI6MTc1MTUxMTYxMSwiZXhwIjoxNzUxNTE1MjExLCJpYXQiOjE3NTE1MTE2MTEsImF1ZCI6Imh0dHBzOi8vbm92LXByZC1icmEtc2lnbmFsci5zZXJ2aWNlLnNpZ25hbHIubmV0L2NsaWVudC8_aHViPWN1c3RvbWVybm90aWZpY2F0aW9uaHViIn0.0UId6Vh2tjoYSXVAaGJ8IGD-oC8o3H6aKivqHMzRZ7E", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/response_004.txt", 
+      "timestamp": 1751511621012
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/request_005.txt", 
+      "url": "https://nov-prd-bra-signalr.service.signalr.net:443/client/negotiate?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=EK3%2B%2BbBKBwA%3D", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/response_005.txt", 
+      "timestamp": 1751511633180
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/request_006.txt", 
+      "url": "https://nov-prd-bra-signalr.service.signalr.net:443/client/?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=EK3%2B%2BbBKBwA%3D&id=r8kPkcG4vzmGyCRfqdTj9wCaQMzw702&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ii0xOTU5Mjc0MTE5In0.eyJhc3JzLnMuc2VjbiI6IjIiLCJhc3JzLnMudHRsIjoiNSIsIm5iZiI6MTc1MTUxMTYyOCwiZXhwIjoxNzUxNTE1MjI4LCJpYXQiOjE3NTE1MTE2MjgsImF1ZCI6Imh0dHBzOi8vbm92LXByZC1icmEtc2lnbmFsci5zZXJ2aWNlLnNpZ25hbHIubmV0L2NsaWVudC8_aHViPWN1c3RvbWVybm90aWZpY2F0aW9uaHViIn0.UhTSmvbHnmGW9FrAJ59dFIpdRAeFJfuIMJb-IuY6v34", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/nov-prd-bra-signalr.service.signalr.net_20250703_000116/response_006.txt", 
+      "timestamp": 1751511637011
+    }
+  ], 
+  "host": "nov-prd-bra-signalr.service.signalr.net", 
+  "total_requests": 6
+}
