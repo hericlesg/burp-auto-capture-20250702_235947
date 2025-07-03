@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250703_000125", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/cds.taboola.com_20250703_000125/request_001.txt", 
+      "url": "https://cds.taboola.com:443/?uid=73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213&ptf=V2luZG93cw==&bnd=Tm90LkEvQnJhbmQ=&bndv=OTk=&bnd=Q2hyb21pdW0=&bndv=MTM2&mbl=ZmFsc2U=", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/cds.taboola.com_20250703_000125/response_001.txt", 
+      "timestamp": 1751510903393
+    }
+  ], 
+  "host": "cds.taboola.com", 
+  "total_requests": 1
+}
